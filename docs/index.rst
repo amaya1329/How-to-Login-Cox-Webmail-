@@ -21,7 +21,7 @@ What is Cox Webmail?
 
 Cox Webmail is an email service available to Cox subscribers that allows them to send, receive, and manage their emails. Accessible from any device with an internet connection and a web browser, Cox Webmail is completely cloud-based. This means users can check their emails from anywhere without needing to download or install any software.
 
- **Features of Cox Webmail: **
+ **Features of Cox Webmail:**
 - **Spam Protection**: Automatic spam filters help keep your inbox free from unsolicited emails.
 - **Organizing Your Inbox**: Use folders and tags to sort and categorize your emails.
 - **Multi-Device Access**: You can access your emails on your computer, tablet, or smartphone as they sync between devices.
