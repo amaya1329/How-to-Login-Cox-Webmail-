@@ -21,7 +21,7 @@ What is Cox Webmail?
 
 Cox Webmail is an email service available to Cox subscribers that allows them to send, receive, and manage their emails. Accessible from any device with an internet connection and a web browser, Cox Webmail is completely cloud-based. This means users can check their emails from anywhere without needing to download or install any software.
 
- **Features of Cox Webmail:**
+ **Features of Cox Webmail**
 - **Spam Protection**: Automatic spam filters help keep your inbox free from unsolicited emails.
 - **Organizing Your Inbox**: Use folders and tags to sort and categorize your emails.
 - **Multi-Device Access**: You can access your emails on your computer, tablet, or smartphone as they sync between devices.
@@ -79,19 +79,19 @@ Key Features of Cox Webmail
 
 Cox Webmail offers several features that make it easy and efficient to manage your emails:
 
- **1. Customizable Folders **
+**1. Customizable Folders**
 You can create custom folders in Cox Webmail to organize your emails. This is especially useful if you receive a large volume of emails. Examples include folders like "Work," "Personal," or even custom ones like "Important" or "Receipts."
 
-**2. Spam Filtering **
+**2. Spam Filtering**
 Cox Webmail automatically directs unwanted emails to a "Spam" folder. This keeps your inbox clean and organized. You can adjust spam filter settings if necessary to fine-tune the process.
 
- **3. Advanced Search**
+**3. Advanced Search**
 With Cox Webmail’s advanced search functionality, you can search for specific emails by keywords, email addresses, or dates. This is particularly useful if your inbox contains a lot of emails and you need to find something quickly.
 
- **4. Calendar Integration **
+**4. Calendar Integration**
 Cox Webmail integrates with calendar services, allowing you to create appointments, set reminders, and manage to-do lists directly from your email interface.
 
- **5. Mobile Access **
+**5. Mobile Access**
 You can check your emails on the go via Cox Webmail’s mobile-friendly interface. Cox also offers a mobile app that optimizes the user experience for smaller screens, providing a more streamlined way to manage emails on smartphones and tablets.
 
 Conclusion
